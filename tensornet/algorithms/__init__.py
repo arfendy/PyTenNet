@@ -12,6 +12,13 @@ from tensornet.algorithms.excited import (
     estimate_gap_from_dmrg,
     energy_variance,
 )
+from tensornet.algorithms.fermionic import (
+    spinless_fermion_mpo,
+    hubbard_mpo,
+    fermi_sea_mps,
+    half_filled_mps,
+    compute_density,
+)
 
 __all__ = [
     "dmrg",
@@ -29,4 +36,9 @@ __all__ = [
     "spectral_gap",
     "estimate_gap_from_dmrg",
     "energy_variance",
+    "spinless_fermion_mpo",
+    "hubbard_mpo",
+    "fermi_sea_mps",
+    "half_filled_mps",
+    "compute_density",
 ]
