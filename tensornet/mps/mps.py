@@ -428,6 +428,15 @@ class MPS:
         
         return entropy
     
+
+    def entropy(self, bond: int) -> Tensor:
+        """Alias for entanglement_entropy."""
+        return self.entanglement_entropy(bond)
+
+    def entropy(self, bond: int) -> Tensor:
+        """Alias for entanglement_entropy."""
+        return self.entanglement_entropy(bond)
+
     def expectation_local(self, op: Tensor, site: int) -> Tensor:
         """
         Compute expectation value of local operator.
@@ -471,3 +480,6 @@ class MPS:
             f"MPS(L={self.L}, d={self.d}, chi={self.chi}, "
             f"dtype={self.dtype}, device={self.device})"
         )
+
+
+
