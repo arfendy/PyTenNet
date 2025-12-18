@@ -1,7 +1,4 @@
-# Core dependency
-git+https://github.com/tigantic/PytorchTN.git
-
-# PyTorch (user should install appropriate version for their system)
+# Core dependencies
 torch>=2.0.0
 
 # For comparison benchmarks (optional)
