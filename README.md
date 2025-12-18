@@ -1,7 +1,7 @@
 # PyTenNet: Tensor Networks in Pure PyTorch
 
 [![Reproduce](https://github.com/tigantic/PyTenNet/actions/workflows/reproduce.yml/badge.svg)](https://github.com/tigantic/PyTenNet/actions/workflows/reproduce.yml)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tigantic/PyTenNet/blob/master/notebooks/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tigantic/PyTenNet/blob/master/)
 [![Proofs](https://img.shields.io/badge/proofs-16%2F16%20passed-brightgreen)](proofs/PROOF_EVIDENCE.md)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -159,4 +159,5 @@ MIT - do whatever you want.
 ---
 
 **Built with 🔥 PyTorch and pure determination.**
+
 
