@@ -7,7 +7,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **2,700 lines. 21 proofs. Zero excuses.**
+> **4,100+ lines. 21 proofs. Zero excuses.**
 
 <p align="center">
   <img src="images/phase_diagram.png" width="45%" alt="TFIM Phase Diagram">
@@ -143,7 +143,7 @@ psi, E, _ = dmrg(psi, H, num_sweeps=20, chi_max=64)
 ## 🏗️ Architecture
 
 ```
-tensornet/                    # 2,700 lines total
+tensornet/                    # 4,100+ lines total
 ├── core/                     # 333 LOC
 │   ├── decompositions.py     # SVD, QR, polar decomposition
 │   └── contractions.py       # Tensor network contractions
@@ -190,6 +190,7 @@ MIT - do whatever you want.
 ---
 
 **Built with 🔥 PyTorch and pure determination.**
+
 
 
 
