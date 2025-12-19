@@ -9,6 +9,15 @@
 
 > **2,700 lines. 21 proofs. Zero excuses.**
 
+<p align="center">
+  <img src="images/phase_diagram.png" width="45%" alt="TFIM Phase Diagram">
+  <img src="images/entanglement_profiles.png" width="45%" alt="Entanglement Profiles">
+</p>
+<p align="center">
+  <img src="images/domain_wall.png" width="45%" alt="Domain Wall Dynamics">
+  <img src="images/bose_hubbard.png" width="45%" alt="Bose-Hubbard Transition">
+</p>
+
 A complete tensor network library for quantum simulation in pure PyTorch. No external dependencies beyond PyTorch. Just clone and run.
 
 ## ⚡ Instant Demo (Run in Browser)
@@ -180,6 +189,7 @@ MIT - do whatever you want.
 ---
 
 **Built with 🔥 PyTorch and pure determination.**
+
 
 
 
