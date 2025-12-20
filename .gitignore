@@ -1,25 +1,20 @@
-# Byte-compiled
+# --- System & Python ---
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-.venv/
-venv/
-ENV/
-
-# IDE
-.idea/
-.vscode/
-*.swp
-
-# Results (generated)
-results/*.json
-!results/README.md
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
 .DS_Store
-Thumbs.db
+
+# --- PRINCIPIA BLACKLIST (IP) ---
+tensornet/mps/hamiltonians.py
+tensornet/algorithms/fermionic.py
+notebooks/
+images/
+proofs/
+benchmarks/
+results/
+reproduce.py
+test_excited.py
+tests/test_proofs.py
